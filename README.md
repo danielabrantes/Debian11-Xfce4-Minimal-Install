@@ -69,10 +69,8 @@ Reboot to load updated kernel and services.
 
 ## Quick install Xfce and required packages
 
-```bash
-git clone https://github.com/coonrad/Debian-Xfce4-Minimal-Install.git
-cd Debian-Xfce4-Minimal-Install
-sudo ./xfce-install.sh
+```
+wget https://raw.githubusercontent.com/danielabrantes/Debian11-Xfce4-Minimal-Install/main/xfce-install.sh
 ```
 
 ## Manually install Xfce and required packages
